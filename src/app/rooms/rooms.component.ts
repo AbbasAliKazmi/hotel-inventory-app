@@ -14,8 +14,8 @@ export class RoomsComponent implements OnInit {
 
   rooms: Room = {
     totalRooms: 20,
-    availableRooms: 10,
-    bookedRooms: 5
+    availableRooms: 9,
+    bookedRooms: 4
   }
 
   roomList: RoomList[] = [];
